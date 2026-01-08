@@ -1,0 +1,553 @@
+Question: What should I do if there is a name mismatch between my Aadhaar and my degree certificates?
+Answer: DigiLocker requires your name on a document to match the name on your Aadhaar to ensure only the rightful owner can access it. If there is a name mismatch, you will not be able to pull your document from DigiLocker. 
+
+Question: If I have an account with one mobile number linked to Aadhaar and my Driving Licence is linked to another number, can I retrieve/get/fetch my Driving Licence in my current DigiLocker account?
+Answer: Yes. You can log into your Aadhaar linked/verified DigiLocker account on the website, use the 'Search Document' option, select 'Ministry of Road Transport and Highways,' click on 'Driving Licence Verification Record,' and enter your license number to retrieve it.
+
+Question: When will the Academic Bank of Credits (ABC) ID be functional in all government institutes?
+Answer: The Ministry of Education (MOE) is working to complete the implementation of ABC across all government institutes soon to ensure seamless access for students nationwide. 
+
+Question: Why do I see the message "school students should contact their respective schools" when trying to create my APAAR ID?
+Answer: Students under the age of 16 cannot create their APAAR ID directly through the DigiLocker app or website. If you are eligible but still face issues, you should contact your school for assistance. 
+
+Question: What should I do if my 12th Mark Sheet has not been uploaded on DigiLocker by my college?
+Answer: Only the authorized board or university can upload data to DigiLocker. If your mark sheet is missing, you need to contact your board and request them to make the data available on DigiLocker. 
+
+Question: Why aren't my state's educational documents like 10th & 12th Mark Sheets or degree certificates available on DigiLocker?
+Answer: Digital records are available on DigiLocker only if the institution has uploaded them to the National Academic Depository (NAD). If your documents are missing, please ask your university or board to provide their digital records on NAD. 
+
+Question: Can we trust that our data and privacy are safe on the DigiLocker digital cloud? Is there legal protection against hacking?
+Answer: Yes, DigiLocker is designed with robust security measures, including 2048-bit SSL encryption, multi-factor authentication, ISO 27001 certified hosting, and regular security audits by CERT-IN empanelled agencies. Data is shared only with explicit user consent. These measures ensure DigiLocker is safe and legally compliant. 
+
+Question: I graduated from RTU Kota in 2011 and completed my 10th and 12th from the Rajasthan Board. How can I get my digital documents from the issuer on DigiLocker?
+Answer: Digital records are available only if the issuing institution has uploaded them to the National Academic Depository (NAD). You must contact the Rajasthan Board and RTU Kota and request them to provide their records on NAD. 
+
+Question: After uploading my class results data at Sangam University, I noticed that the generated grade sheets are not organized in any sequence. What should I do?
+Answer: You should raise a ticket at 
+
+https://support.digilocker.gov.in/ and provide details such as a scanned copy of the mark sheet, board name, year of passing, roll number, and a screenshot of the error. 
+
+
+Question: I received a discrepancy error during the upload of results in DigiLocker due to a name mismatch between my Aadhaar and the name submitted. How can I resolve this?
+Answer: To resolve this, you must update either your Aadhaar or the name on the document to ensure they match. The name on your document must match your Aadhaar name to access it in DigiLocker. 
+
+Question: Is it mandatory to upload documents on DigiLocker, or can we upload data on ABC and have it automatically visible on DigiLocker?
+Answer: No, it is not mandatory to upload documents directly to DigiLocker. Data uploaded to the Academic Bank of Credits (ABC) will be visible on DigiLocker if it is seeded with the ABC or APAAR ID. 
+
+Question: The 10th and 12th mark sheets of the Bihar Board are not available after 2021. The option for the year does not appear at the time of year selection. Is there any solution for this?
+Answer: Please note that the Bihar School Examination Board has only provided digital mark sheets for Class 10 for the years 2018 and 2019. You can request the board to make the 2021 mark sheets available. 
+
+Question: I passed my 10th and 12th classes from RBSE in 2005 and 2007, but I can't get these documents on DigiLocker.
+Answer: The Rajasthan Board of Secondary Education has digital records available for 2014-2021 and 2023. You can request them to make earlier records available. 
+
+Question: How can we add an SSC certificate from 1991 to DigiLocker?
+Answer: Digital records are available only if the institution has uploaded them to the National Academic Depository (NAD). You should request your board to publish their digital records through DigiLocker. 
+
+Question: If someone already has a DigiLocker account but has forgotten the password, can they securely find their documents using the "Forgot Password" option?
+Answer: Yes, you can use the "Forgot security PIN?" option to reset your pin and securely access your documents by verifying your Aadhaar number and date of birth. 
+
+Question: How can DigiLocker help in making Digital India paperless, and when can we expect this transformation?
+Answer: DigiLocker promotes a paperless India by providing a secure platform for digital document storage, instant sharing, and integration with government services. The continued integration of services will help achieve a more paperless society in the coming years. 
+
+
+Question: What are the benefits of DigiLocker, and is it mandatory for all citizens of India?
+Answer: Benefits include secure storage, simplified sharing, and integration with government services. DigiLocker is not mandatory; it is an optional service to enhance convenience and security. 
+
+Question: If there is a name mismatch between my Aadhaar and my university certificates (B.Sc. and M.Sc.), how can I retrieve them in DigiLocker?
+Answer: You will not be able to fetch documents in case of a name mismatch, as the name on the document must match the name on your Aadhaar. You should contact your institution for guidance on updating your name. 
+
+Question: What assistance can be provided to currently enrolled foreign students to help them register for an APAAR ID without Aadhaar details?
+Answer: A procedure for creating APAAR IDs specifically for foreign students is being established. Guidelines and support will be available soon to facilitate their registration without Aadhaar details. 
+
+Question: Can we create multiple DigiLocker accounts using a single mobile number?
+Answer: Yes, you can create up to five Aadhaar-verified DigiLocker accounts using one mobile number. However, only one non-verified account can be created with the same number. 
+
+Question: What assistance is available for foreign students at Sangam University to register for an APAAR ID without Aadhaar details?
+Answer: You can raise a query at https://nad-support.digilocker.gov.in/. A procedure for creating APAAR IDs for foreign students is currently being developed. 
+
+Question: For those who passed out in the 2013 and 2015 sessions, the option for 10th and 12th certificates is not available. Will this be fixed?
+Answer: Please raise this issue at https://nad-support.digilocker.gov.in/. Legacy data from previous years is currently being uploaded to include necessary certificates for all students. 
+
+Question: What should I do if my 12th mark sheet has not been uploaded by my college on DigiLocker?
+Answer: Data on DigiLocker is only uploaded by the authorized board or university. You should contact your college or the respective board and ask them to upload your mark sheet. 
+
+Question: DigiLocker doesn't open if the mobile number linked to the Aadhaar card is changed. What is the solution?
+Answer: First, you must update the mobile number in your Aadhaar at an enrollment center. After that, you will be able to update it in DigiLocker. 
+
+Question: If someone doesn't have a hard copy of a document, can they get one through DigiLocker?
+Answer: Yes, if your educational document is available on DigiLocker, you can print the digital certificate to get a hard copy. 
+
+Question: Can I save my family members' documents in my DigiLocker?
+Answer: No, DigiLocker is for individual accounts only. Each family member must create their own Aadhaar-enabled account to retrieve their documents. 
+
+Question: What should I do if a government official refuses to accept documents from DigiLocker? Is there a helpline?
+Answer: Documents in the "Issued document" section of DigiLocker are legally on par with originals as per the IT Act 2000 and should be accepted. Awareness campaigns are being conducted to increase acceptance among organizations. 
+
+Question: Has the government set a deadline for universities to upload degrees and mark sheets for past years?
+Answer: No, there are currently no fixed deadlines. The process of uploading legacy data is ongoing and will be completed soon. 
+
+Question: Can two people create IDs in the same DigiLocker app?
+Answer: You can only create one DigiLocker account with the mobile number linked to your Aadhaar. To open another account with the same mobile number, you must first unlink the existing account from Aadhaar. 
+
+Question: The 10th and 12th mark sheets of the Bihar Board are not available after 2019. Any information on this?
+Answer: The Bihar School Examination Board has made digital mark sheets available only for Class X for the years 2018 and 2019. You can request the board to make mark sheets for other years available. 
+
+Question: After uploading my class result data, the generated grade sheets are not in any sequence. What should I do?
+Answer: Please raise a ticket at 
+
+https://support.digilocker.gov.in/ and provide details like a scanned copy of the mark sheet, board name, year of passing, roll number, and a screenshot of the error. 
+
+
+Question: Sometimes, after an app update, we are automatically logged out. Can this be resolved?
+Answer: For security reasons, users may be logged out automatically after a security update. This is a necessary measure to address potential vulnerabilities and secure your account. 
+
+Question: How is DigiLocker connected to the APAAR ID, and how can I upload credits?
+Answer: The details for your APAAR ID are fetched from your Aadhaar, but the credit points linked to it are uploaded solely by your university. For more information, visit abc.gov.in. 
+
+Question: Sir, can we upload the 12th class 2024 mark sheet now?
+Answer: Data can only be uploaded by the authorized board or university. You can request your board to make the 2024 mark sheet available for uploading. 
+
+Question: Can documents uploaded to DigiLocker be used as valid proof for government services?
+Answer: Yes, digitally signed documents issued from DigiLocker are legally valid as per the IT Act 2000 when used electronically and can be accepted as valid proof for government services. 
+
+Question: Can students upload documents themselves if their institutions have not?
+Answer: No. To ensure authenticity and integrity, only academic institutions are authorized to upload data to the platform. 
+
+Question: How many years old documents can be accessed in DigiLocker? I am having trouble accessing my 2011 and 2013 school mark sheets.
+Answer: Please raise a ticket at 
+
+https://support.digilocker.gov.in/ and share details like a scanned copy of the mark sheet, board name, year of passing, and roll number so the team can help resolve your issue. 
+
+
+
+Question: Why are matriculation certificates from the Bihar School Examination Board, Patna, before 2017 not available in DigiLocker?
+Answer: The Bihar School Examination Board has only made its digital records for Class X available for the years 2018 and 2019. You can request the board to make earlier data available on DigiLocker. 
+
+Question: When I show my documents through the DigiLocker app, some police officers or authorities don't accept them. What should I do?
+Answer: Digital documents from DigiLocker are legally valid and on par with originals when used electronically and should be accepted. Efforts are underway to increase awareness and acceptance among various organizations. 
+
+Question: After getting an ABC ID card, can a student not pursue more than one course at the same time?
+Answer: The ABC provides an academic credit account for students, allowing for multiple entries and exits. Therefore, a student can enroll in more than one course simultaneously. 
+
+Question: I am trying to find my main documents in DigiLocker, but my documents from the state of Bihar are not available. What should I do?
+Answer: Please raise a support ticket at 
+
+https://support.digilocker.gov.in/. 
+
+Question: I passed my degree in 2015, but only education documents from 2019 to 2024 are available. How can I download my degree certificate?
+Answer: Please raise a support ticket at 
+
+https://support.digilocker.gov.in/ and provide details like a scanned copy of your certificate, roll number, and year of passing to get assistance. 
+
+Question: I am a B.Sc. 1st-year student. My APAAR ID starts with 0, and I am facing issues with registration as it's not accepting the ID. How can I resolve this?
+Answer: Please raise a support ticket at 
+
+https://support.digilocker.gov.in/ and provide a scanned copy of your APAAR ID, your registered mobile number, and college name to get help with the registration issue. 
+
+Question: If I am outside India, can I still use DigiLocker to access my documents worldwide?
+Answer: To use DigiLocker services outside India, you must have an India-based mobile number or a verified email ID. 
+
+Question: What should I do if my 12th mark sheet is not uploaded by my college on Digilocker?
+Answer: Data is only uploaded by the authorized board or university. You can request your board to make the data available. 
+
+Question: Why isn't Passport available on DigiLocker?
+Answer: The department responsible for issuing passports is not yet integrated with DigiLocker. The portal will be updated as soon as it becomes available. 
+
+Question: What if a student can't retrieve certificates due to a name change in Aadhaar after the certificates were issued under the previous name?
+Answer: Please contact your board or university and request them to update your name in their records to match your Aadhaar. Once they update the data, you should be able to access your documents. 
+
+Question: What should I do if I have forgotten my DigiLocker password?
+Answer: You can reset your security pin by going to the DigiLocker website, clicking "Sign In," and then "Forgot security PIN?". You will need to enter your Aadhaar number and date of birth to set a new pin. 
+
+Question: Can documents uploaded to DigiLocker be used as valid proof for government services?
+Answer: Yes, documents on DigiLocker are considered valid proof for various government services as it is an authorized platform under the Ministry of Electronics and Information Technology (MeitY). 
+
+Question: Can documents uploaded to DigiLocker be used as valid proof for government services?
+Answer: Yes, digital documents issued through DigiLocker are valid and equivalent to original documents when used electronically and should be accepted by authorities. 
+
+Question: I did my MBA from PTU in 2012, but PTU has not uploaded the 2012 data on DigiLocker. How can I get my documents?
+Answer: Please raise a ticket at 
+
+https://support.digilocker.gov.in/ and share details like a scanned copy of your mark sheet, roll number, course name, and university name for assistance. 
+
+Question: What banking-related documents can I obtain through DigiLocker?
+Answer: You can obtain various documents, including account statements, Form 16, e-passbooks, interest certificates, TDS certificates, and pension certificates, among others. 
+
+Question: I am pursuing two courses from the same university. Will there be any problem?
+Answer: No, there will be no problem. The university can upload the results and certificates for both of your courses, and credit points will also be uploaded by the issuing authority. 
+
+Question: How is DigiLocker awareness being spread among students and teachers?
+Answer: Awareness is spread through workshops, awareness campaigns, and various advertisements conducted nationwide. 
+
+Question: I accidentally gave my brother's DigiLocker account while filling out a form. How can I correct this?
+Answer: This issue is not related to DigiLocker. Please contact the concerned department/organization where you submitted the form. 
+
+Question: What is the process for a student to update their enrolment number?
+Answer: Please submit your query at 
+
+https://support.digilocker.gov.in/ with detailed information about your concern for assistance. 
+
+Question: Can we expect DigiLocker to have a dark mode?
+Answer: Yes, dark mode is currently available on the web version. The team is working to bring it to the mobile app as well. 
+
+Question: I am from Bihar and I am looking for many of my documents in DigiLocker but cannot find them.
+Answer: Please share your mobile number, a clear scanned copy of the document, and a screenshot of the error by raising a query at 
+
+https://support.digilocker.gov.in/ so the team can assist you. 
+
+Question: What should I do if my 12th mark sheet is not uploaded by my college on DigiLocker?
+Answer: Data is uploaded only by the authorized board or university. You may contact your board and request them to make the data available on DigiLocker. 
+
+Question: Sometimes, traffic police deny accepting DigiLocker documents and ask for a hard copy. What should we do?
+Answer: Digital documents from DigiLocker are legally valid and should be accepted by authorities. Efforts are ongoing to improve awareness and acceptance. 
+
+Question: Can we use DigiLocker in any country?
+Answer: To use DigiLocker services, you must have an Indian mobile number or a verified email ID. Only then can you access DigiLocker services from outside of India. 
+
+Question: Is it possible to change any details in my documents with DigiLocker's help?
+Answer: No. DigiLocker only displays data provided by the relevant departments. For any changes, you must contact the issuing department directly. 
+
+Question: I am from Bihar; why aren't my 10th and 12th certificates available in DigiLocker?
+Answer: The Bihar School Examination Board has made digital mark sheets available only for Class X for the years 2018 and 2019. You can request the board to make the Class XII data available. 
+
+Question: From Punjab, only education documents from 2019 to 2024 are available. How can I download my MCA degree certificate from 2015?
+Answer: Digital records are available on DigiLocker only when institutions have provided them to the National Academic Depository (NAD). You can request your university to provide its digital records. 
+
+Question: I am from Valsad, Gujarat. What should I do if a government official refuses to accept a DigiLocker document? Is there a helpline?
+Answer: Digital documents from DigiLocker are legally valid and equivalent to physical originals. They should be accepted, and work is being done to improve awareness and acceptance among organizations. 
+
+Question: Why isn't my Bihar Board mark sheet or certificate for the 2022-23 sessions available on DigiLocker?
+Answer: Once your board uploads your data to DigiLocker, you will be able to retrieve your digital documents from the platform. 
+
+Question: What should be done if a student can't retrieve certificates from DigiLocker due to a name change in Aadhaar, while the certificates were issued under the old name?
+Answer: You should contact your board/university and request them to update your name in their records as per your Aadhaar. Once they update your data in DigiLocker, you will be able to retrieve your documents. 
+
+Question: Can documents issued by authorities be revised in the future?
+Answer: Documents can be updated only by the issuing authority. 
+
+Question: If a document is uploaded in DigiLocker and not carried physically, will it still be valid?
+Answer: Digital documents issued through DigiLocker are equivalent to original documents when used electronically. They should be accepted by the concerned authorities. 
+
+Question: APOSS offers senior secondary courses, and students from various boards are admitted. How can we verify the authenticity of these secondary certificates?
+Answer: Digital documents issued through DigiLocker are considered valid and equivalent to originals when used electronically. They should be accepted by concerned authorities. 
+
+Question: Kindly update all BSEB and other university certificates on DigiLocker.
+Answer: DigiLocker only displays data received from the board or university. Once they upload your data, you will be able to retrieve your digital documents. 
+
+Question: Can a DigiLocker certificate be submitted for admission or job purposes instead of the original document?
+Answer: Yes, digital documents issued through DigiLocker are valid and equivalent to original documents when used electronically. They should be accepted for admission, job applications, and other official purposes. 
+
+Question: I am from Bihar and facing difficulty creating my ABC ID card because my college, LND College Motihari, is not showing in the list.
+Answer: Since your college name is not in the dropdown list, please create your APAAR ID under the "None" category. 
+
+Question: What should be done if a student cannot retrieve a certificate from DigiLocker due to a name change in Aadhaar, while the certificate was issued under the old name?
+Answer: Please contact your board/university and request them to update the name in their records as per your Aadhaar. Once they update your data on DigiLocker, you will be able to receive your certificates in your account. 
+
+Question: There is a problem fetching documents for married students because their Aadhaar name is updated after marriage, but their academic name is different. What can we do?
+Answer: Please contact the relevant board/university and request them to update your name in their records as per your Aadhaar. Once they update the data, you will be able to access your documents. 
+
+Question: With DigiLocker, will we still need to visit the university to get our certificates?
+Answer: Once your university uploads your data to DigiLocker, you can retrieve your digital certificate, which is legally valid. However, if you need a physical copy, you may still need to contact your university. 
+
+Question: The records were uploaded on October 15 and 16, 2024. Is it normal for the process to take this long?
+Answer: Currently, a high volume of files is being uploaded, which has caused delays. While normal processing time is 48 hours, it is taking longer due to the large number of files. 
+
+Question: We have all our documents in our DigiLocker account. Why do institutions like banks still ask for copies?
+Answer: Digital documents from DigiLocker are legally valid and should be accepted. Efforts are actively being made to enhance awareness and promote acceptance among various organizations. 
+
+
+Question: What should I do if my 12th mark sheet is not uploaded by my college on DigiLocker?
+Answer: Data is uploaded only by the authorized board or university. You can request your board to make your mark sheet available. 
+
+Question: We are from Deoria. Does DigiLocker not work on Android 10?
+Answer: Due to security measures implemented by Google, devices that do not meet minimum requirements are not supported. The app requires Android 10 or a later version. You can use the official DigiLocker website in the meantime. 
+
+Question: What is the perspective on software testing for security?
+Answer: DigiLocker follows standard software development practices, including uniform coding standards and reviews. Each release is thoroughly tested for security and penetration vulnerabilities before deployment. 
+
+Question: I am from Motihari, LND College. I have created my account on DigiLocker, but only my Aadhaar card is downloading; other certificates are not available.
+Answer: Please raise a ticket at 
+
+https://support.digilocker.gov.in/ and share a scanned copy of your mark sheet/certificate and other details so the team can assist you. 
+
+Question: Most students face issues generating ABC IDs through DigiLocker because their Aadhaar-linked mobile numbers are with their parents.
+Answer: You can use other options like a PAN card or driving license to create an ABC ID on the ABC website. 
+
+Question: Even after having documents on DigiLocker, original documents have to be shown. What should be done for this?
+Answer: Digital documents from DigiLocker are legally valid and equivalent to physical originals when used electronically. Authorities should accept them, and work is being done to increase awareness and acceptance. 
+
+Question: Sikkim Manipal University enrolls foreign students. How can we help them register for an APAAR ID without Aadhaar?
+Answer: Please raise your query at https://nad-support.digilocker.gov.in/. A procedure for creating APAAR IDs for foreign students is being developed. 
+
+
+Question: Many students are unsure if a DigiLocker certificate can be submitted for admission or job purposes instead of the original one.
+Answer: Yes, DigiLocker-issued digital documents are valid and equivalent to originals when used electronically. They should be accepted by authorities. 
+
+Question: By knowing a person's ABC ID, can someone access their other documents?
+Answer: No, knowing the ABC/APAAR ID alone does not provide access to other documents. 
+
+Question: What is the process for transferring a student's credits from one university to another during a course?
+Answer: Credit transfer between universities follows the National Credit Framework (NCrF) norms. 
+
+Question: What should I do if my 12th mark sheet is not uploaded by my college on DigiLocker?
+Answer: Once your board uploads your data to DigiLocker, you will be able to retrieve your digital documents from the platform. 
+
+Question: How safe is DigiLocker if my mobile phone is stolen?
+Answer: You should set a 4-digit MPIN for your DigiLocker account for added security. This can be done in the "Security" section of the app's settings. 
+
+Question: How does DigiLocker encourage private companies to accept digital documents for KYC processes?
+Answer: Digital documents from DigiLocker are legally valid and equivalent to physical originals. The DigiLocker team actively works with organizations to increase awareness and promote acceptance. 
+
+Question: If Aadhaar is not mandatory, how does DigiLocker ensure security for user authentication?
+Answer: DigiLocker uses multifactor authentication based on document validation. To protect accounts, the system only permits access when the names on Aadhaar and the document match exactly, ensuring rightful ownership. 
+
+Question: Does the Gateway in DigiLocker access or store user data?
+Answer: No, the Gateway acts as a secure intermediary for document transmission between DigiLocker and authorized organizations without accessing or storing user data. 
+
+Question: Can the same document exist in both the 'Issued' and 'Uploaded' sections on DigiLocker?
+Answer: Yes. The 'Issued Documents' section contains digitally signed, legally valid documents from issuers, while the 'Uploaded Documents' section is for personal storage. It is recommended to use documents from the 'Issued' section for official purposes. 
+
+Question: Why is manual upload of certificates still required for some competitive exams and university admissions?
+Answer: While digital documents from DigiLocker are legally valid, the platform is still working to increase awareness and acceptance with various organizations. 
+
+Question: Is DigiLocker data shared or sold to third parties?
+Answer: No. DigiLocker acts only as a secure intermediary. When accessed via third-party apps, documents are shared only with verified online consent from the user. 
+
+Question: Why are there both APAAR and ABC IDs, and is there a difference?
+Answer: APAAR and ABC IDs refer to the same unique ID. The Ministry of Education renamed the ABC ID to APAAR ID, and you can use your APAAR ID for all academic activities. 
+
+Question: What is DigiLocker's approach to software security during testing?
+Answer: DigiLocker follows standard software development practices, and every release undergoes thorough internal review and testing for security and penetration vulnerabilities before deployment. 
+
+Question: Can DigiLocker certificates be submitted for admissions or job applications instead of original ones?
+Answer: Yes, digital documents from DigiLocker are legally valid as per the IT Act 2000 and equivalent to original documents when used electronically. 
+
+Question: How do I change my mobile number in DigiLocker?
+Answer: First, link your new mobile number to your Aadhaar. Then, sign in to DigiLocker, choose to use Aadhaar OTP, and after logging in, go to your profile to edit and verify your new mobile number. 
+
+Question: If a student's name is missing on the ABC ID, how can it be resolved?
+Answer: If the student is not using Samarth, they can complete eKYC in DigiLocker, which should update the name to match their Aadhaar name. 
+
+Question: Can DigiLocker help prevent fake certificates and degrees?
+Answer: Yes. Organizations using DigiLocker's services can validate documents online directly from the issuer, which helps reduce the chances of fake documents. 
+
+Question: If an institution uploads an incorrect grade sheet, can it be re-uploaded with the correct data?
+Answer: Yes, documents can be updated, but only by the issuing authority. 
+
+Question: How can I use my linked ABC card and DigiLocker to take courses from other institutions?
+Answer: Academic credits earned from recognized Higher Education Institutes (HEI) are automatically credited to your ABC account. These credits can be accumulated and redeemed for academic programs at any time, allowing you to pursue courses across different institutions. 
+
+Question: My Aadhaar name changed after marriage, but my credit mark sheet has my previous name, so my documents aren't uploading to DigiLocker. Is there a solution?
+Answer: In cases of a name mismatch, DigiLocker cannot fetch documents. The name on your document must match the name on your Aadhaar. 
+
+Question: If a student leaves their course mid-session, does the ABC card help?
+Answer: Yes, credits already earned can be saved in the student's ABC account. They can redeem these credits if they resume their education later. 
+
+Question: Is Aadhaar the only document required for DigiLocker verification?
+Answer: Aadhaar eKYC is mandatory for fetching documents into your DigiLocker account. 
+
+Question: I'm unable to create my APAAR ID despite multiple attempts; what can I do?
+Answer: Students under the age of 16 cannot create their APAAR ID via DigiLocker. Please contact your school for assistance. 
+
+Question: Are documents in DigiLocker encrypted, like WhatsApp's end-to-end encryption?
+Answer: Yes, DigiLocker uses high standards for privacy and data security, with encryption at rest and in transfer to protect all data. 
+
+Question: Why doesn't DigiLocker show the full Aadhaar number?
+Answer: For security reasons, the UIDAI issues the Digital Aadhaar in a format that does not display the full number. For more details, you should contact UIDAI directly. 
+
+Question: If my Aadhaar card does not have a mobile number, how can I open a DigiLocker account?
+Answer: You must first link a mobile number to your Aadhaar at the nearest Aadhaar Enrolment Center, as DigiLocker requires an OTP sent to your Aadhaar-linked mobile number for its processes. 
+
+Question: Are DigiLocker and APAAR ID the same, or are they different?
+Answer: They are different but are integrated to provide a secure way to store and access academic documents. 
+
+Question: Are there any fees for creating an APAAR/ABC ID through DigiLocker or other portals?
+Answer: No, there are no charges for creating an APAAR/ABC ID through DigiLocker, ABC, or UDISE portals. 
+
+Question: How can we upload mark sheets for students with arrears who complete later semesters?
+Answer: The institution can upload separate mark sheets for students in such cases. 
+
+Question: How can academic researchers contribute to the DigiLocker project?
+Answer: Academic researchers can provide feedback and suggestions through the DigiLocker support portal to help enhance the platform. 
+
+Question: After marriage, a girl's name changes in Aadhaar, but the old name remains on the mark sheet, so documents are not uploaded. What can be done?
+Answer: A name match is necessary to fetch documents correctly in DigiLocker. If the name in Aadhaar and the documents do not match, the documents cannot be fetched. 
+
+Question: How effective is DigiLocker in addressing the issue of fake documents, certificates, and degrees?
+Answer: DigiLocker reduces the chances of fake documents by allowing agencies to access documents directly from the owner's account and enabling authorized bodies to upload documents directly. 
+
+Question: What URLs can be used to access DigiLocker?
+Answer: DigiLocker can be accessed at https://digilocker.gov.in
+
+Question: What are the key components of DigiLocker?
+Answer: A DigiLocker account has the following sections:
+Home: This is the home screen of your DigiLocker account, from where you can navigate to other sections of DigiLocker. This also shows a summary of issued documents and a link to get documents from partners integrated with DigiLocker.
+Issued Documents: This section shows a list of URIs (links) of digital documents or certificates issued by the Govt. departments or agencies integrated with DigiLocker.
+DigiLocker Drive: This section shows all the documents which are uploaded by you. You can update the document type and share these uploaded documents.
+Activity: This section keeps a log of all the activities performed by you in your DigiLocker account. The log includes the details about activities such as file upload, download, share, etc.
+Browse Documents: This section provides the lists of departments and agencies that are registered with DigiLocker as Issuers. If these departments have issued any document/certificate to you, it will appear in the form of a URI (link) in your Issued Documents section.
+
+Question: What are the benefits of using DigiLocker?
+Answer: Benefits to Citizens
+Important Documents Anytime, Anywhere!
+Authentic Documents, Legally at Par with Originals.
+Digital Document Exchange with the consent of the citizen.
+Faster service Delivery- Government Benefits, Employment, Financial Inclusion, Education, Health.
+Benefits to Agencies
+Reduced Administrative Overhead: Aimed at the concept of paperless governance. It reduces the administrative overhead by minimizing the use of paper and curtailing the verification process.
+Digital Transformation: Provides trusted issued documents. Issued Documents available via DigiLocker are fetched in real-time directly from the issuing agency.
+Secure Document Gateway: Acts as a secure document exchange platform like a payment gateway between a trusted issuer and a trusted Requester/Verifier with the consent of the citizen.
+Real Time Verification: Provides a verification module enabling government agencies to verify data directly from issuers after obtaining user consent.
+
+Question: What security features are implemented in DigiLocker? Is it safe to put my data on the DigiLocker platform?
+Answer: DigiLocker is completely safe and secure to use. The following practices have been adopted to ensure data security:
+Standard Practices: DigiLocker follows standard software development practices of uniform coding standards, guidelines and reviews. Every release is reviewed and tested internally for security and penetration vulnerabilities before getting deployed.
+2048 Bit RSA SSL Encryption: DigiLocker uses a 2048-bit secure socket layer (SSL) Encryption for information transmitted during any activity.
+Multifactor Authentication based Sign Up and Sign in: DigiLocker uses multifactor authentication based signup and sign-in via Mobile OTP (one-time password) or Biometric auth combined with PIN validation for authenticating users and allowing access to the platform.
+ISO 27001 certified Data Hosting facilities: The application is hosted on an ISO 27001 security certified data hosting facility.
+Data Redundancy: Data is backed up in a secure environment with proper multi-zone redundancy.
+Timed Log Out: To protect a citizen’s account from unauthorized access, our system is designed to terminate the session automatically if extended inactivity is detected.
+Security Audit: The DigiLocker system is audited by CERT-IN empanelled audit agencies and the external third-party application security audit certificates are obtained at regular intervals.
+User Consent Based System: The data from DigiLocker is shared only with the citizen's explicit consent. All sharing and access activities are logged and conveyed to the citizen. Organizations that need access to citizens' certificates need to register on DigiLocker and seek explicit consent from the citizen.
+
+Question: How can I sign up/create account for DigiLocker?
+Answer: Creating account or Signing up for DigiLocker is easy - all you need is your mobile or Aadhaar number. Your mobile/Aadhaar number will be authenticated by sending an OTP (one-time password) followed by setting your security PIN for 2-Factor authentication. This will create your DigiLocker account.
+
+Question: What is OTP?
+Answer: OTP is a random one-time password generated by the DigiLocker/UIDAI system and sent to your registered mobile number. The OTP is valid for 10 minutes only. If you enter the OTP after 10 minutes, it will be rendered invalid and you have to request to resend the OTP.
+
+Question: My mobile is updated in my Aadhaar number, but I cannot use it to link my DigiLocker account with Aadhaar. It gives an error message - Mobile number is not linked with Aadhaar.
+Answer: For linking your DigiLocker account with Aadhaar, your mobile must be linked with your Aadhaar number. Please make sure this is actually the case. To verify this, visit https://eaadhaar.uidai.gov.in/ and download your eAadhaar. You will be able to check the linked mobile number (last four digits) during this process.
+
+Question: I wish to link Aadhaar with my DigiLocker, but my mobile number is not updated in my Aadhaar. How can I get this done?
+Answer: You need to link your Mobile number with Aadhaar. Please visit the nearest Aadhaar Kendra. Click the link to get a list of Aadhaar enrolment centres: https://uidai.gov.in/ecosystem/enrolment-ecosystem/aadhaar-seva-kendra.html
+
+Question: While trying to link Aadhaar with DigiLocker, I am getting an error message 'Your Aadhaar is invalid'.
+Answer: For registering with DigiLocker, please make sure you have correctly entered the 12-digit Aadhaar number that you received from UIDAI in the given text box.
+
+Question: I am waiting for the OTP, but I have not received it for more than 5 minutes. What should I do?
+Answer: While using DigiLocker, the OTP is sent instantaneously. Sometimes there may be temporary problems either on our servers (while generating/sending OTP) or in the delivery of the SMS by your mobile service provider. We suggest you wait for a few more minutes and try again.
+
+Question: After entering the Aadhaar number, I am getting an error message 'UID service temporarily unavailable'.
+Answer: This may sometimes happen due to technical issues on our servers or with the UIDAI service. Most likely it’s a temporary problem. Please try again after some time.
+
+Question: I have forgotten my DigiLocker username/password. What should I do?
+Answer: You do not require a username to log in anymore. You can type your mobile number or Aadhaar instead of a username and after providing the OTP, you will be able to log in to your account.
+
+Question: How can I change the information displayed (like email, mobile etc) in my Aadhaar profile on DigiLocker?
+Answer: The information displayed in your Aadhaar profile in your DigiLocker account (like name, address, email, mobile etc) is for display purposes. This data is only fetched from UIDAI and it is not possible to make any changes to this data from DigiLocker. To make changes to your Aadhaar data, please visit your nearest Aadhaar enrolment center.
+
+Question: I have registered on DigiLocker and I want to change my username, is there any way to do so?
+Answer: A username once created in DigiLocker cannot be changed currently.
+
+Question: I am an NRI (Non-Resident Indian), can I sign up using a foreign mobile number?
+Answer: No, it is not possible. You can register in DigiLocker using an Indian mobile number only.
+
+Question: Can I open more than one DigiLocker Account with a single mobile no.?
+Answer: You can open only one account with one mobile number which is not linked with Aadhaar. If you want to open more accounts with the same mobile number you will have to link your existing account with your Aadhaar number. Thereafter, you can use the same mobile number to open another DigiLocker account by linking it to Aadhaar.
+
+Question: How to update name and DoB in DigiLocker account?
+Answer: Please try the following options:
+Make sure that the full name/DoB that you want in your Digilocker account is updated on your Aadhaar card.
+Log In using your Aadhaar number and click on Browse--> Click on Aadhaar--> Click again to update Aadhaar card/Complete eKYC
+Once you submit the OTP, the full name will be updated as per Aadhaar.
+You will not be able to change your name or DoB to anything different than Aadhaar.
+In case of any issue write to us with a screenshot of the error and your Aadhaar/Mobile number.
+Note: UIDAI usually takes 20-30 days for the data updation. Please visit https://eaadhaar.uidai.gov.in/ and download your eAadhaar. This will tell you if your data is actually updated with Aadhaar or still in process.
+
+Question: How to update username?
+Answer: A username once set during the Sign-Up process cannot be changed. However, if you want to set up a username for the first time, please follow these steps:
+Update your DigiLocker App.
+Login using your Aadhaar number, the option to set your username (user alias) will appear. If you already have a username you will not get this option.
+The username can contain a dot (.), dash (-), and underscore (_). The username should be between 4-50 characters without space and must start with a small letter.
+To know your username, kindly visit your profile after login.
+
+Question: I am frequently getting the error 'Aadhaar already registered' during e-KYC.
+Answer: It seems that your Aadhaar number is already registered with DigiLocker and now you are trying to link Aadhaar again with your Non-Aadhaar account. Please try to log in to your DigiLocker account by entering your Aadhaar number. You will receive an OTP on your registered mobile number; submit the OTP. In case of any issue, please write to us with a screenshot of the error.
+
+Question: How can I update my mobile number if I have lost my DigiLocker registered mobile number?
+Answer: Kindly try the following steps to log in via Aadhaar OTP and update your DigiLocker-linked mobile number:
+Visit https://www.digilocker.gov.in/ and click on 'Sign In'.
+Enter your Aadhaar number and security PIN and then click 'Sign In'.
+Go to the bottom of the page and click on 'Try using Aadhaar OTP instead!'. This will send the OTP to your Aadhaar-registered mobile number.
+Enter the OTP sent to you by UIDAI and Captcha text and click 'Submit'.
+You will be logged in successfully. After logging in, go to the profile section and edit your mobile number by clicking on the pencil icon beside the mobile.
+Enter your new mobile number and click 'Submit'. An OTP will be sent to your new mobile number.
+After successful verification, your DigiLocker mobile number will be updated.
+
+Question: How to Reset Security PIN? (If the Old mobile number is lost)
+Answer: Try the following steps to reset the security PIN:
+Visit https://www.digilocker.gov.in/ and click on 'Sign In'.
+Click on 'Forget Security PIN'.
+Enter your Aadhaar number and DOB as per Aadhaar and click 'Submit'.
+Go to the bottom of the page and click on 'Try using Aadhaar OTP instead'. This will send the OTP to your Aadhaar-registered mobile number.
+Enter the OTP sent to you by UIDAI and Captcha text and click 'Submit'.
+Set your new security PIN.
+Your new security PIN is set successfully.
+
+Question: What are issued documents and what are uploaded documents?
+Answer: Issued documents are e-documents issued by various government agencies in electronic format directly from the original data source and the URI (link) of these documents is available in the issued documents section of DigiLocker. Whereas uploaded documents are those documents that are uploaded directly by the DigiLocker user.
+
+Question: What is the meaning of URI?
+Answer: A URI is a Uniform Resource Identifier generated by the issuer department, which is mandatory for every e-document of the DigiLocker system. This unique URI can be resolved to a full URL (Uniform Resource Locator) to access the actual document in its appropriate repository.
+
+Question: How can I upload documents to my DigiLocker account?
+Answer: You can upload documents from inside your ‘Uploaded Documents’ section. Click the upload icon to start uploading a document. In the file upload dialog box, locate the file from your local drive and select 'open' to complete the uploading. You can also edit the name of the file using the edit icon next to the filename.
+
+Question: What is the maximum allowed file size that can be uploaded?
+Answer: The maximum allowed file size is 10MB.
+
+Question: What type of files can be uploaded?
+Answer: File types that can be uploaded are pdf, jpeg & png.
+
+Question: DigiLocker now allows citizens to access their digital Aadhaar. What is digital Aadhaar? Is it the same as the eAadhaar issued by UIDAI?
+Answer: Digital Aadhaar in DigiLocker is the same as eAadhaar issued by UIDAI. DigiLocker has partnered with UIDAI to make it available automatically to its users when they link their DigiLocker account with Aadhaar. The advantage of digital Aadhaar is that it can be shared with any agency or organization in electronic form thus eliminating the use of photocopies or printouts.
+
+Question: I have already signed up for DigiLocker and linked my Aadhaar. How can I get my Digital Aadhaar in DigiLocker?
+Answer: Here are the steps to get Digital Aadhaar in DigiLocker if you already have an Aadhaar-linked DigiLocker account:
+Login to DigiLocker with your credentials.
+Go to the issued section where you will see your digital Aadhaar Card listed.
+Just click on the view/download option to access the Digital Aadhaar.
+
+Question: Give us details about the DigiLocker integration with the Ministry of Road Transport and Highways (MoRTH). What are the benefits of this integration for citizens?
+Answer: DigiLocker is recognized by the Ministry of Road Transport and Highways via notification (RT-11036/64/2017-MVL dated 08/08/2018) as a digital platform for making available digital driving licenses and vehicle registration certificates to Indian citizens. DigiLocker is now directly integrated with the National Register, which is the national database of driving license and vehicle registration data across the country. Henceforth, DigiLocker users will be able to access their digital Registration Certificate and Driving License both on desktop computers and on mobile devices.
+Benefits of this integration:
+Paperless Services: Digital driving license and vehicle registration certificate will minimize the use of physical documents.
+Authentic Records: Citizens can share the authentic digital certificates directly from the data source with other departments as identity and address proof resulting in a reduction of administrative overhead.
+Spot Verification: The digital RC and DL in a DigiLocker account can be spot-verified for authenticity either by validating the Digital Signature of MoRTH on the PDF copy of the document or by scanning the QR code on digital documents by using the QR scan facility on the DigiLocker mobile app.
+No need to carry the original physical form of documents while driving a vehicle: The Ministry of Road Transport and Highways has issued a D.O to all state transport departments about the acceptance of Driving Licenses and Vehicle Registration Certificates when presented through the issued section of DigiLocker are deemed to be legally recognized at par with the original documents as per the provisions of the Information Technology Act, 2000.
+
+Question: Please explain the process of getting the digital DL & RC in DigiLocker.
+Answer: For getting the digital Driving License and Vehicle Registration Certificate, users should ensure their Aadhaar number is linked with their DigiLocker account. Once it is done, the User can go to the Quick Link section on the dashboard and click on “Get your Digital Driving license” and “Get your Digital Vehicle RC”. This will allow fetching the document from the MoRTH database. Once the document is fetched, a URI is created and saved automatically in their ‘Issued section of DigiLocker’ for later reuse. Citizens can get their Digital Driving License and Vehicle Registration Certificate on both desktop and mobile devices.
+
+Question: Does my name matter while fetching my Digital Driving License and Vehicle Registration Certificate through DigiLocker? I can see a non-editable field for the Aadhaar name while filling out the requisite details.
+Answer: While fetching the MoRTH digital records in DigiLocker, your name in your Aadhaar card should match your name in the Vehicle Registration Certificate & Driving License database of the National Register. This ensures that only the rightful owner of the documents is able to fetch the digital Driving License and Vehicle Registration Certificate.
+
+Question: I followed the instructions but could not get my digital Driving License and Vehicle Registration Certificate via DigiLocker. It says 'No record available in issuer database for given document no. Please check your document number and try again.' Why am I not able to get my documents through DigiLocker?
+Answer: DigiLocker has integrated with the National Register, which is a central database maintained by the Ministry of Road Transport and Highways. If your Driving License and Vehicle Registration Certificate record does not exist in the National Register, DigiLocker will not be able to get it for you.
+
+Question: I am getting an error message 'The details provided did not match the issuer data. Please try again with some changes.' What does this mean and what can I do to get my data?
+Answer: This message can come if some of the details filled by you are incorrect. Please re-enter the correct information and try again.
+
+Question: I tried linking my Aadhaar with DigiLocker, but it gives an error 'This Aadhaar is already registered'. How can this be possible?
+Answer: This error can only be possible if your Aadhaar is already linked with a DigiLocker account and now you have created another DigiLocker account and are trying to link Aadhaar with that account. We suggest you try to retrieve your credentials using Forgot Username/Password (using Aadhaar) for the first account and continue using it.
+
+Question: My name and DoB in Aadhaar is the same as in DL and RC. I am still not able to fetch my DL/RC in my DigiLocker Account.
+Answer: Please make sure that the DL/RC you are looking for is available on the National Register.
+For a Driving License, please visit https://parivahan.gov.in/rcdlstatus/?pur_cd=101.
+For RC, please visit https://vahan.parivahan.gov.in/vahanservice/vahan/ui/appl_status/form_Know_Appl_Status.xhtml.
+
+Question: I am a CBSE student. How can I get my digital mark sheet on DigiLocker?
+Answer: How to Access Your CBSE Certificates: DigiLocker has created DigiLocker accounts for students using the mobile numbers shared by CBSE.
+Students have received an SMS on their mobile number registered with CBSE.
+Students should use this mobile number to log in to their accounts.
+Enter the OTP received on the registered Mobile Number.
+Enter the last 6 digits of your Roll number as the security PIN and Login.
+After successful Login, the student should go to the 'Issued Document' section of DigiLocker and you will see all your class X or XII certificates here.
+For students whose account could not be created (due to incorrect mobile numbers or any other reason), they need to sign up on DigiLocker and link their Aadhaar numbers. If they are not able to perform Aadhaar-OTP verification, Aadhaar can also be linked by entering demographic details (Aadhaar Number, Name, DoB, and Gender as per Aadhaar). So even if Aadhaar is not linked to a correct mobile number, it still can be linked to the DigiLocker account.
+After successful Login, the student should click on 'Browse' and select 'Central Board of Secondary Education' in the Education category.
+Select the Document the student is willing to fetch i.e. Marksheet, Passing Certificate, or Migration Certificate.
+Enter the required details i.e. Year and Roll No and get your Class X or XII Certificates in your DigiLocker Account.
+
+Question: My organization wants to utilize the services of DigiLocker to become an issuer/requester? How do we proceed?
+Answer: To become an Issuer/Requester of DigiLocker, your organization first needs to be registered with us. To know about the process of registration, please contact our customer support team at support[dot]digitallocker[dot]gov[dot]in. Your request will be forwarded to the DigiLocker on-boarding team and they’ll get back to you.
